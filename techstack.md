@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 mollypi/project-examples is built on the following main stack:
+
 - [Drone.io](https://drone.io/) – Continuous Integration
 - [Gradle](https://www.gradle.org/) – Java Build Tools
 - [Python](https://www.python.org) – Languages
@@ -41,11 +42,13 @@ mollypi/project-examples is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 mollypi/project-examples is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/668/R_wMcCqN_400x400.png' alt='Drone.io'/> [Drone.io](https://drone.io/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
@@ -85,14 +88,15 @@ mollypi/project-examples is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mollypi/project-examples](https://github.com/mollypi/project-examples)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|75<br/>Tools used|11/15/23 <br/>Report generated|
+|76<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -470,7 +474,7 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (32)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (33)</h2>
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg'/> NuGet (20)
 
@@ -492,7 +496,7 @@ Full tech stack [here](/techstack.md)
 |[Microsoft.Net.Http](https://www.nuget.org/Microsoft.Net.Http)|v2.2.29|07/12/18|Alexei Vainshtein |Apache-2.0|N/A|
 |[Microsoft.Web.Infrastructure](https://www.nuget.org/Microsoft.Web.Infrastructure)|v1.0.0|08/26/14|liorha |N/A|N/A|
 |[Microsoft.Web.Xdt](https://www.nuget.org/Microsoft.Web.Xdt)|v2.1.1|05/04/15|liorha |N/A|N/A|
-|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v11.0.2|07/12/18|Alexei Vainshtein |MIT|[](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)|
+|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v11.0.2|07/12/18|Alexei Vainshtein |MIT|[](https://github.com/advisories/GHSA-8rfx-6mr3-5jh3) (High)<br/>[CVE-2024-21907](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)|
 |[NuGet.Core](https://www.nuget.org/NuGet.Core)|v2.8.2|05/04/15|liorha |Apache-2.0|N/A|
 |[Respond](https://www.nuget.org/Respond)|v1.2.0|08/26/14|liorha |MIT|N/A|
 |[WebGrease](https://www.nuget.org/WebGrease)|v1.5.2|08/26/14|liorha |Apache-2.0|N/A|
@@ -514,14 +518,15 @@ Full tech stack [here](/techstack.md)
 |[serve-favicon](https://www.npmjs.com/serve-favicon)|v2.4.5|03/16/18|jainish shah |MIT|N/A|
 
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (2)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (3)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[nltk](https://pypi.org/nltk)|v3.4.5|11/02/19|dependabot[bot] |Apache-2.0|[CVE-2021-43854](https://github.com/advisories/GHSA-f8m6-h2c7-8h9x) (High)<br/>[CVE-2021-3842](https://github.com/advisories/GHSA-rqjh-jp2r-59cj) (High)<br/>[CVE-2021-3828](https://github.com/advisories/GHSA-2ww3-fxvq-293j) (High)|
-|[nose](https://pypi.org/nose)|N/A|06/06/17|jainish shah |LGPL-2.1+|N/A|
+|[PyYAML](https://pypi.org/project/PyYAML)|v5.1|01/08/20|dependabot[bot] |MIT|[CVE-2020-14343](https://github.com/advisories/GHSA-8q59-q68h-6hv4) (Critical)|
+|[nltk](https://pypi.org/project/nltk)|v3.4.5|11/02/19|dependabot[bot] |Apache-2.0|[CVE-2021-43854](https://github.com/advisories/GHSA-f8m6-h2c7-8h9x) (High)<br/>[CVE-2021-3842](https://github.com/advisories/GHSA-rqjh-jp2r-59cj) (High)<br/>[CVE-2021-3828](https://github.com/advisories/GHSA-2ww3-fxvq-293j) (High)|
+|[nose](https://pypi.org/project/nose)|N/A|06/06/17|jainish shah |LGPL-2.1+|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
